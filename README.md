@@ -1,6 +1,6 @@
-# Bank Telemarketing Campaign </br>
+# Bank Marketing Campaign </br>
 
-This code contains all the code as a part of Winter in Data Science. The data has been obtained from https://www.kaggle.com/yufengsui/portuguese-bank-marketing-data-set. </br> </br>
+The aim of this project is to predict the success of a bank marketing campaign. </br> </br>
 
 The details of the input variables are as follows: </br>
 
